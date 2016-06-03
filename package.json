@@ -1,0 +1,23 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoEvanSun/pushServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoEvanSun/pushServer/issues"
+  },
+  "homepage": "https://github.com/NeoEvanSun/pushServer#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17"
+  }
+}
